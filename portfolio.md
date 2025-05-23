@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: default
 title: "Portfolio"
-permalink: /portfolio/
+permalink: /portfolio.html
 ---
 
 ## 📊 Project Highlights

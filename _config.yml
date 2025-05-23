@@ -1,6 +1,7 @@
-title: "Portofolio Samuel"
-description: "Welcome to My Portfolio"
-baseurl: "" 
-url: "https://samuel.github.io"
-
-theme: jekyll-theme-cayman
+title: "Portofolio Samuel Chinson"
+email: samuel.chinson@gmail.com
+description: >-
+  Portofolio Data Science Samuel Chinson – NLP, ML, dan Analisis Data
+theme: null
+markdown: kramdown
+permalink: pretty

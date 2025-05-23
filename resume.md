@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: default
 title: "Resume"
-permalink: /resume/
+permalink: /resume.html
 ---
 
 ## 🎓 Education
