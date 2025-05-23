@@ -1,0 +1,6 @@
+title: "Portofolio Samuel"
+description: "Welcome to My Portfolio"
+baseurl: "" 
+url: "https://samuel.github.io"
+
+theme: jekyll-theme-cayman
